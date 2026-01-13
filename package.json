@@ -1,0 +1,11 @@
+{
+  "name": "tg-media-botik",
+  "version": "1.0.0",
+  "description": "Telegram media bot with buttons",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^4.6.0",
+    "axios": "^1.0.0"
+  }
+}
